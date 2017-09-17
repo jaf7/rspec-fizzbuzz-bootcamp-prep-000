@@ -1,3 +1,5 @@
 require 'pry'
-def fizzbuzz
+
+def fizzbuzz(n)
+  binding.pry
 end
